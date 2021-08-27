@@ -1,1 +1,2 @@
 1. Line in new_file 2
+2. Changes in new_file2 in branch ecosystem in new codebase
