@@ -1,1 +1,2 @@
 1. First line of first file
+2. Line added to file locally
