@@ -2,3 +2,4 @@
 2. Edit to file 2
 3. Edit again to file 2
 4. Line in file 2 created in develop branch
+5. Last change in file2 from develop before switching

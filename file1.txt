@@ -2,3 +2,4 @@
 2. Line added to file locally
 3. ANother line
 4. Line in file 1 created in develop branch
+5. Last change in file1 from develop before switching
