@@ -1,0 +1,1 @@
+1. Line in new_file 2
